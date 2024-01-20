@@ -23,7 +23,7 @@ It's a Web Application where user can search for Movies, they can see the imdb r
 - Bugs, bugs, and bugs.
   
 
-#Features:
+# Features:
 
 -  Easy Integration: Integrate pop-up modals into your application with just a few lines of code.
   
