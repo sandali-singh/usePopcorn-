@@ -15,6 +15,7 @@ It's a Web Application where user can search for Movies, they can see the imdb r
 <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
 </p>
 
 
@@ -23,7 +24,7 @@ It's a Web Application where user can search for Movies, they can see the imdb r
 - Bugs, bugs, and bugs.
   
 
-# Features:
+## Features
 
 -  Easy Integration: Integrate pop-up modals into your application with just a few lines of code.
   
@@ -56,7 +57,7 @@ It's a Web Application where user can search for Movies, they can see the imdb r
 -   **Always create a new branch** before making any changes `git checkout -b <new-branch-name>`, never ever make any changes directly on the master/main branch.
 
 
-# Support:
+## Support:
 
 For any questions, issues, or feature requests, please open an issue on GitHub. Our community and maintainers are here to help!
 
